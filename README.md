@@ -17,16 +17,16 @@ Laravel, Vue, Chart.js, Fingerprint2, Bootstrap, SCSS & Paperkit.
 ## Images
 
 #### Main Page
-![Main Page](https://pollie.dev/images/main.png)
+![Main Page](public/images/main.png)
 
 #### Create Page
-![Create Page](https://pollie.dev/images/create.png)
+![Create Page](public/images/create.png)
 
 #### Authorize Page
-![Authorize Page](https://pollie.dev/images/authorize.png)
+![Authorize Page](public/images/authorize.png)
 
 #### Vote Page
-![Vote Page](https://pollie.dev/images/vote.png)
+![Vote Page](public/images/vote.png)
 
 #### Result Page
-![Result Page](https://pollie.dev/images/result.png)
+![Result Page](public/images/result.png)
